@@ -1,11 +1,5 @@
 first file by coder a 
 ok ..
 
-<<<<<<< HEAD
 ok..
-
-=======
-
-Editted by coder B
 ok..
->>>>>>> 502cfc0d9c2d713faec65a2d95db698fc9b2248f
